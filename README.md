@@ -1,2 +1,2 @@
 # Test
-To just see how the git works
+I just want to see how Git works!
